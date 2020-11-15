@@ -1,6 +1,3 @@
-#LOGISTIC REGRESSION
-#DIGIT RECOGNIZATION VIA MACHINE LEARNING
-
 from sklearn.datasets import load_digits
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix,classification_report,accuracy_score
